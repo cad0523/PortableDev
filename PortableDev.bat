@@ -50,3 +50,5 @@ echo 2. open folder "src"
 echo 3. create new file "test.ipynb" in "src" folder
 echo 4. install extensions
 echo 5. select kernel "py\Scripts\python.exe"
+
+pause
